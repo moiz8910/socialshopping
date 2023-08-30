@@ -1,0 +1,6 @@
+shadcn         https://ui.shadcn.com/docs/components/button
+clerk          https://dashboard.clerk.com/apps/app_2UVUGmKtNg1tTwNMhEobpZxjeNH/instances/ins_2UVUGl8CdH4tmA8XZdC63DBecom
+planet scale   https://app.planetscale.com/moizpatan8910/social-shopping
+prisma studio  http://localhost:5555/
+uploadthings   https://docs.uploadthing.com/
+live kit       https://cloud.livekit.io/projects/p_4k78dldwtvk/settings/keys
